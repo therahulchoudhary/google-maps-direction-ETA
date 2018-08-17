@@ -1,0 +1,20 @@
+.ETA{
+    width:200px;
+    height:40px;
+    position:fixed;
+    bottom:50px;
+    right:50px;
+    background:white;
+    z-index: 10000;
+    border:4px solid skyblue;
+    opacity: 0.8;
+    padding:10px;
+    display:block;
+    font-family: verdana;
+    font-weight: 50;
+  }
+  h4{
+    margin:5px 0;
+    font-size: 12px;
+    color:grey;
+  }
